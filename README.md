@@ -1,8 +1,7 @@
 # Hi
-I _attempt to_ build things from scratch all across the stack in the age of vibecoding and `pip install doStuffLibrary`
-- Hardware: Implementing a whole SoC in Verilog
-- Firmware: Writing avionics software for a rocket
-- Software: Creating assemblers and compilers in C and getting work done in Python (moving to JavaScript)
+I build things from scratch all across the stack in the age of vibecoding and `npm install doStuffLibrary`.
+
+From processor implementations in Verilog to avionics firmware and crafting assemblers/compilers, I thrive on understanding and building every layer. Currently learning JavaScript to complete the whole stack from silicon to slop.
 
 ## (Public) Projects:
 - [**operator**](https://github.com/akkaygin/operator), a cursed programming language where everything is an infix operator
