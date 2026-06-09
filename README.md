@@ -1,12 +1,5 @@
-# Hi
-I build things from scratch all across the stack in the age of vibecoding and `npm install doStuffLibrary`.
+I was a professional dumbass but AI took my job and now I'm unemployed.
 
-From processor implementations in Verilog to avionics firmware and crafting assemblers/compilers, I thrive on understanding and building every layer. Currently learning JavaScript to complete the whole stack from silicon to slop.
+Nothing matters anymore in our Lords year of 2022+4. I have (had) some public repos to show that I can fizzbuzz, I made them myself, you have to trust me.
 
-## (Public) Projects:
-- [**operator**](https://github.com/akkaygin/operator), a cursed programming language where everything is an infix operator
-- [**Advent of Code 2015**](https://github.com/akkaygin/AoC-2015), the OG AoC solutions in Python, nothing shiny
-- [**sol32**](https://github.com/akkaygin/sol32pt), a CPU design journey that taught me a lot about compilers and processors - with a better version cooking in the lab
-- [**glasscell**](https://github.com/akkaygin/glasscell), a sol32 implementation in systemverilog for accurate physical simulation and a graphical frontend made using raylib
-
-I have a lot more private ones though
+[**sol32**](https://github.com/akkaygin/sol32pt), [**glasscell**](https://github.com/akkaygin/glasscell) these are cool I guess. I am too embarrased (don't question, actaully I think its pretty good) to publicize my latest stuff, it's a compiler for a new language with an SMT solver built in, and I make everything myself; no Z3, no LLVM, no yacc/bison, etc. (the world is not ready for my genious)
